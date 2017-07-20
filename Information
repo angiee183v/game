@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Roboto Slab', serif;
+        font-size: 14px;
+      }
+b {
+  color: #43c7d5;
+  text-shadow: 2px 2px 4px #6e6e6e;
+  font-size: 30px
+}
+
+div {
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+h2 {
+    font-size: 18px;
+}
+
+    </style>
+  </head>
+  <body>
+    <p><center><b>HIV</b> (human immunodeficiency virus) is a virus that interferes with the body's ability to fight infections. The virus targets and damages the white blood cells that would normally attack the virus. As a result, the immune system is left exposed and therefore susceptible to serious infections and illnesses. In many cases, early symptoms often mimic the flu. Alternatively, HIV can be asymptomatic until it develops to AIDS. Early diagnosis and treatment makes a big difference, and many people with HIV never develop AIDS.</center></p>
+</br></br>
+
+<div>
+<p><h2>Causes & Prevention</h2><p>
+
+<li>Although there’s no cure for HIV/AIDS, antiretroviral regimens can dramatically slow the disease's progress.</li>
+<li>HIV is primarily found in body fluids including, but not limited to blood, semen, and even breast milk.</li>
+<li>Educating yourself about HIV and avoiding any behavior that allows HIV-infected fluids into your body is an easy step to preventing HIV.</li>
+<li>Medicines to treat HIV/AIDS are improving daily. There are currently one-a-day pills on the market that can control the progression of HIV in the body. The newer pills are constantly being enhanced so that they can be taken less often than everyday. The newer pills also tend to have fewer side effects, making the routine even easier to keep.</li>
+</div>
+
+</br>
+
+<div>Most health insurance plans provide free HIV screenings for anyone aged 15 to 65 with no copayment or coinsurance.
+</br></br>
+The first step after testing HIV positive is to see a health care provider, even if you don't feel sick. Prompt medical care and treatment with HIV medicines as soon as possible is the best way to stay healthy. It is recommended that people with HIV start taking HIV medicines as soon as possible.</p></div>
+
+  </body>
+</html>
